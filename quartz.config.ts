@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "notes-for-computer-science.github.io/mathematical-techniques",
-    ignorePatterns: ["private", "templates", "Excalidraw", ".obsidian"],
+    baseUrl: "learn-compsci.github.io/mathematical-techniques",
+    ignorePatterns: ["learn-compsci", "templates", "Excalidraw", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
