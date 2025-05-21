@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "learn-compsci.github.io/mathematical-techniques",
+    baseUrl: "learn-compsci.github.io/programming-in-C",
     ignorePatterns: ["learn-compsci", "templates", "Excalidraw", ".obsidian"],
     defaultDateType: "created",
     theme: {
