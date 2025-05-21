@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/notes-for-computer-science/programming-in-C",
+      GitHub: "https://github.com/learn-compsci/programming-in-C",
     },
   }),
 }
