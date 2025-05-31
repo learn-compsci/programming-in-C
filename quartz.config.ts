@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Mathematical Techniques for Computing",
+    pageTitle: "Programming in C",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
