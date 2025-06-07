@@ -40,4 +40,15 @@ That looks a lot simpler doesn't it? In fact, doesn't it look a lot more readabl
 So what does the computer run? The C code? The instructions? What's the real program here? Technically speaking, you could consider both to be the computer program. That might sound confusing, but it's a really important concept, so let's explain it.
 ## Compilation
 
-Let's start with an analogy. Picture yourself, as an 
+Let's start with an analogy. Pretend for a moment that you had to help your friend go from Beauty World to Central Library (and your friend doesn't know how to use Google Maps). You might tell your friend something like:
+
+1. Walk to "Aft Bt Timah Rd" bus stop.
+2. Take the 151 bus.
+3. Get off at Ctrl Lib.
+
+Which seems reasonable, assuming your friend speaks English, I think they got the idea. Now let's pretend that your friend is actually new to Singapore, so they don't yet know how to take public transport. They have an EZ-Link card, but otherwise just don't have the know-how.
+
+How would the instructions change? Well our previous steps probably would not suffice anymore, your friend probably still would not quite know what to do (aside from say... walking to the bus stop).
+
+
+
