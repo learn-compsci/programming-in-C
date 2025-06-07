@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "learn-compsci.github.io/programming-in-C",
-    ignorePatterns: ["Images/*.md"],
+    ignorePatterns: ["Images/*.md", "Drafts/*"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
