@@ -142,4 +142,46 @@ Another reason why it's easier to write performant programs in languages like C 
 ### Widespread Use in Low-Level Systems
 Think of it this way: If you need to work with existing low level systems and read their code, or if you are joining a team that works on high performance computing, chances you are going to have to be able to read C.
 
-# Programming Methodology
+# Programming Methodology --- Beyond C
+
+Taking a step back from C, computers, and all the nitty gritty details for second, there's a separate concept we need to talk about: Programming.
+
+It might go without saying that programming is a tool, a means to an end. And there are concepts that are related to programming that are not exclusive to C. 
+
+Here's an analogy: Let's say we wanted to take photos of something. That's simple right? We could just use a camera, that's our **tool**. Except now there's the question of what kind of camera do you want to use? A Nikon? A Canon? 
+
+
+![[d3500.jpg|350]] ![[canon-t7.png|250]]
+
+Both of these cameras would get the job done, but **learning how to use the camera** isn't all there is to **learning how to take pictures**. Learning how to use the camera might be stuff like learning where all the buttons are, how to change the zoom on the lens, navigating the menu. These differ from camera to camera. But there are also deeper concepts that aren't exclusive to the camera you're using that you need to learn: Shot composition, knowing how lighting, exposure, shutter speed affect the outcome of the picture, and so on. These things exist as concepts beyond the camera that you'll need to know.
+
+**That said**, the best way to learn is to still pick up a camera and use it to take pictures. So along the way, you'll learn about how to use the camera, but also through it, an instrument for other general concepts.
+
+Similarly, in programming, especially for beginners, you'll need to pick up a few things at once: a programming language (that's the camera), but also programming methodology (that's the concepts that aren't necessarily tied to a specific language).
+
+## Learning to Program in General
+
+Having said that, we recommend bearing a few things in mind when picking up your first programming language, think of these as helpful things to focus on (consciously) to speed up your learning process.
+
+![[mindful.gif]]
+
+
+#### Understanding the difference between learning C features, and general programming methodology
+
+As we've mentioned, there is a difference between learning C itself, versus learning programming itself. And it's very easy and common to conflate the two things. If you're in it for the long haul, and the long run, you need to understand that good programmers are never tied to any single language. You might have a favourite or a language that we are most proficient in, but eventually you'll need to graduate beyond just being a one-trick pony and being able to code in a few languages.
+
+Why? Different programming languages offer different advantages (and also disadvantages). If you want to pick the right tool for the job, you need to be able to use the tool in the first place.
+
+Quick and dirty one-off scripts for parsing and processing text? You'd probably be better of using Python instead of C. Want to write concurrent programs? You should probably consider using Go. Want to write a logic behind a web page? Then perhaps JavaScript.
+
+**Being clear on programming methodology lets you transfer your skills across languages faster**.
+
+#### Getting Your Hands Dirty 
+
+#### Learning to Read Error Messages (and Getting Comfortable With Them)
+
+#### Learning to Debug
+
+#### Trusting the Process (and How Bugs Are Part of It)
+
+#### Using LLMs (Why and When Not To)
