@@ -167,7 +167,6 @@ Having said that, we recommend bearing a few things in mind when picking up your
 
 
 #### Understanding the difference between learning C features, and general programming methodology
-
 As we've mentioned, there is a difference between learning C itself, versus learning programming itself. And it's very easy and common to conflate the two things. If you're in it for the long haul, and the long run, you need to understand that good programmers are never tied to any single language. You might have a favourite or a language that we are most proficient in, but eventually you'll need to graduate beyond just being a one-trick pony and being able to code in a few languages.
 
 Why? Different programming languages offer different advantages (and also disadvantages). If you want to pick the right tool for the job, you need to be able to use the tool in the first place.
@@ -176,12 +175,17 @@ Quick and dirty one-off scripts for parsing and processing text? You'd probably 
 
 **Being clear on programming methodology lets you transfer your skills across languages faster**.
 
-#### Getting Your Hands Dirty 
+#### Getting Your Hands Dirty, and Carefully Planning It Out
+Programming really isn't an "on-paper" thing. Throughout the course we'll be talking a lot about thinking things through and making game plans before writing code. Lots of people tend to spend too much time on the "thinking" part and not actually write any code.
 
+Both parts are important! It's important to plan things through, it's also very important to actually get your hands dirty and write the code. **Feel** the code through your fingertips.
 #### Learning to Read Error Messages (and Getting Comfortable With Them)
+Making mistakes are going to be common, and there will be times where your compiler will try to be helpful by giving error messages. (This is not limited to C) And it will be tempting to ignore them considering how it will often involve words and jargon you're not familiar with.
 
+But learning to read them and letting them help hint at you at what's going on will help you speed the process up.
 #### Learning to Debug
+Again, making mistakes is going to be common. And like it or not, you'll almost definitely be debugging your programs. Understand that it's part of the process! And while it might be painful (especially when it's because your programs aren't working), it's something even good programmers have to do.
 
-#### Trusting the Process (and How Bugs Are Part of It)
+Eventually as you get more and more experience, systems that you use get more and more complicated. Debugging is a useful skill that you should hone. Trust the process.
 
 #### Using LLMs (Why and When Not To)
