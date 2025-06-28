@@ -188,4 +188,10 @@ Again, making mistakes is going to be common. And like it or not, you'll almost 
 
 Eventually as you get more and more experience, systems that you use get more and more complicated. Debugging is a useful skill that you should hone. Trust the process.
 
+#### Reading Manuals
+We can't teach you all there is to know about everything in programming. Also, we can't show you the entire C standard library, let alone other well-known (or even lesser-known) libraries out there. Getting used to reading manuals and documentation is how you'll learn to be independent.
+
+#### IDEs and Tooling
+
+
 #### Using LLMs (Why and When Not To)
